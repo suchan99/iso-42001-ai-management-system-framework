@@ -1,0 +1,4 @@
+Control ID,Control Objective,Applies To,Implementation,Evidence,Owner,Frequency,Design Status,Operating Status,Related Risk
+C-001,Maintain accountable ownership for each AI system,All production AI,Named business and system owners recorded in inventory,AI system register,AIMS Owner,Continuous,Implemented,Example,R-001
+C-002,Assess material AI impacts before deployment,Medium/high impact AI,Complete AI impact assessment before approval,Approved impact assessment,Business Owner,Per release,Implemented,Example,R-001
+C-003,Monitor fairness after deployment,High-impact decision support,Periodic outcome comparison by relevant population,Monitoring report,Model Risk,Monthly,Implemented,Example,R-001

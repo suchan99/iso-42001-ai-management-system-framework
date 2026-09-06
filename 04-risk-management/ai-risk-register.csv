@@ -1,0 +1,2 @@
+Risk ID,System ID,Risk Statement,Affected Party,Severity,Likelihood,Inherent Rating,Key Controls,Residual Rating,Risk Owner,Status,Target Date
+R-001,AI-001,Biased historical data could lead to disparate approval outcomes,Loan applicants,5,3,15,Fairness testing;feature review;human adverse-decision review,8,Business Risk Owner,Open,2026-10-15
